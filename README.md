@@ -17,7 +17,7 @@ purple night light and in the morning it turns green.
 
 The control wire connests to pin #4 on the ESP8266 board (D2 on the DevKit).
 
-![Breadboard Wiring](KidClock.svg)
+![Breadboard Wiring](KidClock.png)
 
 ## Code
 
